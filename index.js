@@ -6,7 +6,7 @@ const page = `<html>
     <title>Diégo Teixeira da Costa</title>
     <h1>Why can't a bike ride on its own?</h1>
     <p>Because it's two tired!</p>
-    <h2><marquee>!!!!hahahaha!!!!</marquee><h2>
+    <h2><marquee>!!!!hahahahaha!!!!</marquee><h2>
 </html>`
 
 app.get(
